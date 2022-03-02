@@ -1,3 +1,3 @@
-# speedcode1
+# SpeedCode
 SpeedCode ShieldsBOT Altyapı
-Artık V13!
+# Artık V13!
